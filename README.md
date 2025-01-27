@@ -18,3 +18,19 @@ long long CalculateVolume() - Return the volume of the box
 Overload the operator < for the class Box to compare 2 boxes:
 
 Overload operator  << for the class Box().
+
+
+2) Create a program that models a simple banking system using OOP principles. The system should include:
+
+A BankAccount class with private attributes:
+accountNumber
+accountHolder
+balance
+Public member functions for:
+Depositing money.
+Withdrawing money (ensure sufficient balance).
+Transferring money between two accounts.
+A main function that demonstrates:
+Creating multiple accounts.
+Performing deposit, withdrawal, and transfer operations.
+Displaying account details.
