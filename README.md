@@ -34,3 +34,5 @@ A main function that demonstrates:
 Creating multiple accounts.
 Performing deposit, withdrawal, and transfer operations.
 Displaying account details.
+
+All other programs problem statement are inserted as comment at beginning of the code
